@@ -14,7 +14,7 @@
 - https://api.adviceslip.com/
 
 ### Link online
-https://glistening-quokka-d7ead8.netlify.app/
+https://tiny-horse-813988.netlify.app/
 
 ## Author
 
